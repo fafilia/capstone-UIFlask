@@ -41,7 +41,7 @@ a. Membuat repository baru di Github
 b. Clone repository tersebut ke local dengan git clone
 - Environment 
 
-a. Created virtual environment called "flask_ui"
+a. Created virtual environment called "capstone-flask"
 
 Hal pertama yang harus dilakukan adalah melakukan pengaturan environment conda. Untuk menyiapkan conda environment dan kernel, silahkan gunakan command berikut:
 ```
